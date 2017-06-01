@@ -1,0 +1,5 @@
+﻿  TravelingSalesman.cpp
+c:\users\zach\documents\elmhurst courses\cs courses\cs 320\projects\p5320heine\p5320heine\salesman.h(54): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\zach\documents\elmhurst courses\cs courses\cs 320\projects\p5320heine\p5320heine\salesman.h(115): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\zach\documents\elmhurst courses\cs courses\cs 320\projects\p5320heine\p5320heine\salesman.h(173): warning C4018: '<=' : signed/unsigned mismatch
+  P5320Heine.vcxproj -> C:\Users\Zach\Documents\Elmhurst Courses\CS Courses\CS 320\Projects\P5320Heine\Debug\P5320Heine.exe
